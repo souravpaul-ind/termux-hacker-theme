@@ -2,7 +2,12 @@
 
 A complete Kali Linux-style setup for Termux with Matrix rain, custom prompt, autosuggestions, and syntax highlighting.
 
-![Preview](link-to-your-screenshot.png)
+### 📸 Preview
+
+<div align="center">
+  <img src="Screenshot_2026-1...png" width="300" alt="Matrix Rain">
+  <img src="Screenshot_2026-1...png" width="300" alt="Hacker Banner">
+</div>
 
 ## ✨ Features
 - Matrix rain on startup (3.5s)
