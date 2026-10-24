@@ -5,8 +5,8 @@ A complete Kali Linux-style setup for Termux with Matrix rain, custom prompt, au
 ### 📸 Preview
 
 <div align="center">
-  <img src="Screenshot_2026-10-24-16-20-12-19_84d3000e3f4017145260f7618db1d683.jpg" width="300" alt="Matrix Rain">
-  <img src="Screenshot_2026-10-24-16-19-59-33_84d3000e3f4017145260f7618db1d683.jpg" width="300" alt="Hacker Banner">
+  <img src="images/screenshot-1.jpg" width="300" alt="Matrix Rain">
+  <img src="images/screenshot-2.jpg" width="300" alt="Hacker Banner">
 </div>
 
 ## ✨ Features
