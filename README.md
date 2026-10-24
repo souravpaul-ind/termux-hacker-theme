@@ -23,7 +23,7 @@ A complete Kali Linux-style setup for Termux with Matrix rain, custom prompt, au
 Copy and paste this single command in Termux:
 
 ```bash
-pkg install git -y && git clone https://github.com/YOUR_USERNAME/termux-hacker-theme.git && cd termux-hacker-theme && bash setup.sh
+pkg install git -y && git clone https://github.com/souravpaul-ind/termux-hacker-theme.git && cd termux-hacker-theme && bash setup.sh
 ```
 
 ⌨️ Shortcuts
