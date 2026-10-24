@@ -1,4 +1,6 @@
-# 🟢 Termux Hacker Theme & Autosuggestions
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+# 👾 Termux Hacker Theme & Autosuggestions
 
 A complete Kali Linux-style setup for Termux with Matrix rain, custom prompt, autosuggestions, and syntax highlighting.
 
@@ -36,3 +38,8 @@ ll : List files
 Ctrl + R : Search history
 
 Right Arrow / Space : Accept autosuggestion
+
+## 📄 License
+
+This project is licensed under the **MIT License**. 
+See the [LICENSE](LICENSE) file for more details.
